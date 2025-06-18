@@ -1,22 +1,6 @@
 [
-  {
-    "id": 1,
-    "name": "Pizza",
-    "price": 249
-  },
-  {
-    "id": 2,
-    "name": "Burger",
-    "price": 149
-  },
-  {
-    "id": 3,
-    "name": "French Fries",
-    "price": 99
-  },
-  {
-    "id": 4,
-    "name": "Coke",
-    "price": 59
-  }
+  { "id": 1, "name": "Pizza", "price": 249 },
+  { "id": 2, "name": "Burger", "price": 149 },
+  { "id": 3, "name": "French Fries", "price": 99 },
+  { "id": 4, "name": "Coke", "price": 59 }
 ]
